@@ -1,4 +1,4 @@
-# other
+# The Zen of Python
 
 Can we write diary using github pages?
 
